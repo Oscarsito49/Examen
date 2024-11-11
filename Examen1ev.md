@@ -4,7 +4,7 @@
 ## Resumen
 Este documento detalla el proceso del examen de la primera evaluación de despliegue de aplicaciones web. Se describen ejercicios como SSH virtualHost o como MarkDown (este propio documento). Al final, se ofrece una conclusión la cual incluye una valoración personal sobre el aprendizaje obtenido y las dificultades durante el examen.
 
-##Palabras clave:
+## Palabras clave:
 1. ****
 2. ****
 3. ****
