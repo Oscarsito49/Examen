@@ -13,14 +13,14 @@ Este documento detalla el proceso del examen de la primera evaluación de despli
 6. ****
 
 ### Índice Global:
-[-Resumen](#Resumen)  
-[-Palabras clave](#Palabras-clave)  
-[-Contexto](#Contexto)  
-[-Motivación](#Motivación)
-[-Ejercicio 2](#Ejercicio-2)
-[-Ejercicio 3](#Ejercicio-3) 
-[-Conclusión](#Conclusión) 
-[-Bibliografía](#Bibliografía) 
+* [-Resumen](#Resumen)  
+* [-Palabras clave](#Palabras-clave)  
+* [-Contexto](#Contexto)  
+* [-Motivación](#Motivación)  
+* [-Ejercicio 2](#Ejercicio-2)  
+* [-Ejercicio 3](#Ejercicio-3)  
+* [-Conclusión](#Conclusión)  
+* [-Bibliografía](#Bibliografía)  
 
 ## Contexto:
 Este documento/examen se lleva a cabo en un entorno académico, en el cual los estudiantes aprenden (en esta asignatura) sobre despliegue de aplicaciones web. El objetivo de esta actividad es redactar el examen realizado.
