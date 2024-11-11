@@ -32,16 +32,19 @@ El motivo principal de este documento es redactar el proceso del examen con algu
 ## Ejercicio 2
 
 ### Índice Ejercicio 2:
-[-Creación](#Creación)  
-[-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
-[-Activación](#Activación-del-archivo-VirtualHost)  
-[-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
+* [-Conexión](#Conexión)  
+* [-Comando whoami para ver quienes somos](#Comando-whoami-para-ver-quienes-somos)  
+* [-Entrar al Escritorio y ver que archivos hay](#Entrar-al-Escritorio-y-ver-que-archivos-hay)  
+* [-Crear el documento y modificarlo](#Crear-el-documento-y-modificarlo)
+* [-Comprobar que ahora sale el nuestro](#Comprobar-que-ahora-sale-el-nuestro)
+* [-Resultado](#Resultado)
+* [-Biblioteca de capturas de pantalla Ejericcio 2](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
 
 ### Conexión
 El primer paso es conectarse al otro equipo (nos deberia de salir un mensaje de confrmación):  
 ![CleanShot 2024-11-11 at 17 38 49@2x](https://github.com/user-attachments/assets/0f54b78b-6a8c-415b-8a90-9491d3664fd9)  
 
-### Comando `whoami` para ver quienes somos (en nuestro caso nos devuelve "usuario"): 
+### Comando whoami para ver quienes somos: 
 ![CleanShot 2024-11-11 at 17 40 45@2x](https://github.com/user-attachments/assets/a914bbed-a4bc-49d5-9b2f-007f2f69b288)
 
 ### Entrar al Escritorio y ver que archivos hay:  
@@ -56,7 +59,7 @@ El primer paso es conectarse al otro equipo (nos deberia de salir un mensaje de 
 ### Resultado:  
 ![ej2 resultado](https://github.com/user-attachments/assets/0b8e3410-079a-4665-a466-63ee95c8ec89)
 
-### Biblioteca de capturas de pantalla ejercicio3: 
+### Biblioteca de capturas de pantalla ejercicio2: 
 ![Ejercicio2bueno](https://github.com/user-attachments/assets/560cebba-0d37-4eca-a79b-ec3be0d2b99c)  
 
 ![ej2 resultado](https://github.com/user-attachments/assets/2e494c48-5a9f-4cfd-a7ac-2c2da202df9a)  
@@ -65,10 +68,10 @@ El primer paso es conectarse al otro equipo (nos deberia de salir un mensaje de 
 ## Ejercicio 3
 
 ### Índice Ejercicio 3:
-[-Creación](#Creación)  
-[-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
-[-Activación](#Activación-del-archivo-VirtualHost)  
-[-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
+* [-Creación](#Creación)  
+* [-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
+* [-Activación](#Activación-del-archivo-VirtualHost)  
+* [-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
 
 ### Creación
 El primer paso es crear la carpeta en la cual tendremos la página web.
