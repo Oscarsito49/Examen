@@ -2,10 +2,10 @@
 ## Ejercicio 3
 
 ### Índice:
-[-Creación](#Creación)
-[-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)
-[-Activación](#Activación-del-archivo-VirtualHost)
-[-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)
+[-Creación](#Creación)  
+[-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
+[-Activación](#Activación-del-archivo-VirtualHost)  
+[-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
 
 ### Creación
 El primer paso es crear la carpeta en la cual tendremos la página web.
