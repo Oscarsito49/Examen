@@ -1,8 +1,70 @@
 
 # Examen primera evaluación
+
+## Resumen
+Este documento detalla el proceso del examen de la primera evaluación de despliegue de aplicaciones web. Se describen ejercicios como SSH virtualHost o como MarkDown (este propio documento). Al final, se ofrece una conclusión la cual incluye una valoración personal sobre el aprendizaje obtenido y las dificultades durante el examen.
+
+##Palabras clave:
+1. ****
+2. ****
+3. ****
+4. ****
+5. ****
+6. ****
+
+### Índice Global:
+[-Resumen](#Resumen)  
+[-Palabras clave](#Palabras-clave)  
+[-Contexto](#Contexto)  
+[-Motivación](#Motivación)
+[-Ejercicio 2](#Ejercicio-2)
+[-Ejercicio 3](#Ejercicio-3) 
+[-Conclusión](#Conclusión) 
+[-Bibliografía](#Bibliografía) 
+
+## Contexto:
+Este documento/examen se lleva a cabo en un entorno académico, en el cual los estudiantes aprenden (en esta asignatura) sobre despliegue de aplicaciones web. El objetivo de esta actividad es redactar el examen realizado.
+ 
+## Motivación: 
+El motivo principal de este documento es redactar el proceso del examen con algunos detalles personales. Este documento nos ayudara de cara al restultado del examen para poder aprender de nuestros errores y corregirlos. 
+
+
+## Ejercicio 2
+
+### Índice Ejercicio 2:
+[-Creación](#Creación)  
+[-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
+[-Activación](#Activación-del-archivo-VirtualHost)  
+[-Galeria Ejercicio 3](#Biblioteca-de-capturas-de-pantalla-ejercicio3)  
+
+### Conexión
+El primer paso es conectarse al otro equipo (nos deberia de salir un mensaje de confrmación):  
+![CleanShot 2024-11-11 at 17 38 49@2x](https://github.com/user-attachments/assets/0f54b78b-6a8c-415b-8a90-9491d3664fd9)  
+
+### Comando `whoami` para ver quienes somos (en nuestro caso nos devuelve "usuario"): 
+![CleanShot 2024-11-11 at 17 40 45@2x](https://github.com/user-attachments/assets/a914bbed-a4bc-49d5-9b2f-007f2f69b288)
+
+### Entrar al Escritorio y ver que archivos hay:  
+![CleanShot 2024-11-11 at 17 41 35@2x](https://github.com/user-attachments/assets/747f4b35-d9db-4385-ae94-6f1881f4024f)  
+
+### Crear el documento y modificarlo: 
+![CleanShot 2024-11-11 at 17 42 11@2x](https://github.com/user-attachments/assets/ad7d23ba-4f61-49c1-a56b-1b298d543725)  
+
+### Comprobar que ahora sale el nuestro: 
+![CleanShot 2024-11-11 at 17 42 57@2x](https://github.com/user-attachments/assets/98f2134a-0770-448b-8ba8-f4e8f2a800a5)  
+
+### Resultado:  
+![ej2 resultado](https://github.com/user-attachments/assets/0b8e3410-079a-4665-a466-63ee95c8ec89)
+
+### Biblioteca de capturas de pantalla ejercicio3: 
+![Ejercicio2bueno](https://github.com/user-attachments/assets/560cebba-0d37-4eca-a79b-ec3be0d2b99c)  
+
+![ej2 resultado](https://github.com/user-attachments/assets/2e494c48-5a9f-4cfd-a7ac-2c2da202df9a)  
+
+
 ## Ejercicio 3
 
-### Índice:
+### Índice Ejercicio 3:
 [-Creación](#Creación)  
 [-Configuración](#Configuración-del-archivo-de-configuración-virtualHost)  
 [-Activación](#Activación-del-archivo-VirtualHost)  
@@ -51,7 +113,8 @@ Por último deberemos de activar el VirtualHost con el siguiente comando y recib
 
 ![html](https://github.com/user-attachments/assets/b89d81ac-cd7f-479a-b018-da250a3437d3)
 
-
+## Conclusión  
+En general me ha parecido un examen muy entretenido. Aunque tengamos la teoria a disposición no puedes venir sin tener ni idea ya que te encuentras con problemas que tienes que saber resolver. Aún con el chuletario me parece que ha estado a buen nivel el examen. La teoria me ha costado un poco ya que habia algún tecnicismo que no sabía. En mi opinión muy buen examen con muy buenos contenidos 10/10.
 
 ## Bibliografía
 * [Configuración](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)  
