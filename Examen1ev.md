@@ -5,12 +5,11 @@
 Este documento detalla el proceso del examen de la primera evaluación de despliegue de aplicaciones web. Se describen ejercicios como SSH virtualHost o como MarkDown (este propio documento). Al final, se ofrece una conclusión la cual incluye una valoración personal sobre el aprendizaje obtenido y las dificultades durante el examen.
 
 ## Palabras clave:
-1. ****
-2. ****
-3. ****
-4. ****
-5. ****
-6. ****
+1. **ServerName**
+2. **ServerAdmin**
+3. **DocumentRoot**
+4. **SSH**
+5. **VirtualHost**
 
 ### Índice Global:
 * [-Resumen](#Resumen)  
