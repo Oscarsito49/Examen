@@ -54,8 +54,8 @@ Por último deberemos de activar el VirtualHost con el siguiente comando y recib
 
 
 ## Bibliografía
-[Configuración](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)  
-
+* [Configuración](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)  
+* [Practica Por Parejas](https://github.com/Oscarsito49/prueba/blob/master/apache.md)
 
 
 
